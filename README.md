@@ -11,7 +11,7 @@ Modify your `manifest.json` file found at `/<PROJECT>/Packages/manifest.json` by
 {
 	"dependencies": {
 		...
-		"com.danieleverland.scriptableobjectarchitecture": "https://github.com/kininarimasu/Robotfists.git#master",
+		"com.opensource.robotfists": "https://github.com/kininarimasu/Robotfists.git#master",
 		...
 	}
 }
