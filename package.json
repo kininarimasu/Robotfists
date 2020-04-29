@@ -1,0 +1,6 @@
+{
+    "name": "com.opensource.robotfists",
+    "version": "0.0.1",
+    "displayName": "Robotfists",
+    "description": "Dependency Injection Framework for Unity3D"
+}
